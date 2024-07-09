@@ -1,0 +1,8 @@
+# Zig build artifacts
+zig-out/
+
+# Zig package manager artifacts
+.zig-cache/
+
+# IDE/Editor specific files (if using VSCode)
+.vscode/
